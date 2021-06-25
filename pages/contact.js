@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -19,20 +20,20 @@ export default function Home() {
         </h5>
         <hr/>
 
-        {/* <h4 style={{"text-align":"center", "font-family":"Helvetica"}}>
-        <ul><li><a href="/">Home</a></li>
-        <li><a href="/catalog">Catalog</a></li>
-        <li><a href="/contact">Contact Information</a></li>
+        <h4 style={{"text-align":"center", "font-family":"Helvetica"}}>
+        <ul><li><Link href="/"><a>Home</a></Link></li>
+        <li><Link href="/catalog"><a>Catalog</a></Link></li>
+        <li><Link href="/contact"><a>Contact Information</a></Link></li>
         </ul>
         </h4>
         <p><h4 style={{"font-size":"30px", "color":"#00a3cc", "font-family":"Helvetica"}}>Hello I'm Oscar.</h4>
             <h4 style={{"font-size":"20px", "color":"#FFFFFF", "font-family":"Helvetica"}}>I am the owner of O.T.E. Exotic Co. where I wholesale cages and<br/> accessories.<br/></h4> 
             <h4 style={{"font-size":"30px", "color":"#00a3cc", "font-family":"Helvetica"}}><u>You can reach me at:</u></h4>
-            <h4 style={{"font-size":"20px", "color":"#FFFFFF", "font-family":"Helvetica"}}>(626) 321-0910<br/>or<br/>oscartran2002@yahoo.com</h4>
+            <h4 style={{"font-size":"20px", "color":"#FFFFFF", "font-family":"Helvetica"}}>(626) 321-0910 via text<br/>or<br/>oscartran2002@yahoo.com via email</h4>
             <br/><h4 style={{"font-family":"Helvetica","font-size":"14px","color":"#FFFFFF","text-align":"center"}}> Please contact me if you have any further questions!</h4>
-            </p> */}
+            </p>
       </Head>
-      <body style={{"background":"url(https://i.redd.it/au40rxdxbo571.png)", "z-index":"-1"}}>
+      <body style={{"background":"url(https://i.redd.it/au40rxdxbo571.png)", "background-repeat":"no-repeat", "background-size":"cover"}}>
       </body>
   </div>
   )
