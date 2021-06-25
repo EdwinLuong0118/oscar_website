@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <h1 style={{"text-align":"center"}}>
+      {/* <h1 style={{"text-align":"center"}}>
         <u>
         <p style={{"font-size": "55px", "font-family":"Helvetica", "color": "#00a3cc"}}>O.T.E. EXOTIC CO.</p>
         </u>
@@ -58,7 +58,7 @@ export default function Home() {
 
       <body style={{"background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
 
-      </body>    
+      </body>     */}
   </div>
   )
   }
