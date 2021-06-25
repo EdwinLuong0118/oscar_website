@@ -46,7 +46,7 @@ export default function Home() {
       
       <li>
         {/* <Link href="https://i.redd.it/zw37vsrsio571.png">  <a><Image src="/favicon.ico" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a></Link> */}
-        <Image src="best_seller1.png" style={{"width":"250px","height":"350px"}}></Image>
+        <Image src="best_seller1.png"></Image>
         {/* <Link href="https://i.redd.it/zw37vsrsio571.png">  <a><Image src="/favicon.ico" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a></Link> */}
         {/* <a href="https://i.redd.it/zw37vsrsio571.png"><img src="https://i.redd.it/zw37vsrsio571.png" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a> */}
       <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3373</p></h5></li>
