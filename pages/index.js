@@ -15,6 +15,8 @@ export default function Home() {
       
       <h1>My Homepage</h1>
       <Image style={{"height":"100px", "width":"100px"}} src="best_seller1.png" alt="Picture of the author" />
+      <Image style={{"height":"100px", "width":"100px"}} src="favicon.ico" alt="Picture of the author" />
+
       <p>Welcome to my homepage!</p>
 
 {/* 
