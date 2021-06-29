@@ -43,7 +43,6 @@ export default function Home() {
       <ul2 style={{"list-style-type":"none"}}>
 
       <h3 style={{"text-align":"center"}}>
-   <Image src="best_seller1.png"></Image>      
       <li>
         {/* <Link href="https://i.redd.it/zw37vsrsio571.png">  <a><Image src="/favicon.ico" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a></Link> */}
         {/* <Image src="best_seller1.png"></Image> */}
@@ -64,6 +63,7 @@ export default function Home() {
       </ul2>
 
       <body style={{"background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
+      <Image src="best_seller1.png"></Image>      
 
       </body>    
   </div>
