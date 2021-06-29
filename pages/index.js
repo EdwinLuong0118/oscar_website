@@ -63,7 +63,6 @@ export default function Home() {
       </ul2>
 
       <body style={{"background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
-      <Image src="best_seller1.png"></Image>      
 
       </body>    
   </div>
