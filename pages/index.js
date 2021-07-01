@@ -44,20 +44,24 @@ export default function Home() {
 
       <h3 style={{"text-align":"center"}}>
       <li>
-        <Image width={250} height={350} src="best_seller1.png"  alt="Item  #3373"></Image>
-        {/* <Link href="https://i.redd.it/zw37vsrsio571.png">  <a><Image src="/favicon.ico" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a></Link> */}
-        {/* <a href="https://i.redd.it/zw37vsrsio571.png"><img src="https://i.redd.it/zw37vsrsio571.png" alt="Item  #3373"style={{"width":"250px","height":"350px"}}/></a> */}
-      <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3373</p></h5></li>
+        <Image width={250} height={350} src="item3373.png"  alt="Item  #3373"></Image>
+        <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3373</p></h5>
+      </li>
 
-      {/* <li><a href="https://i.redd.it/af7mwf2ddo571.png"><img src="https://i.redd.it/af7mwf2ddo571.png" alt="Item #2424" style={{"width":"300px", "height":"300px"}}/></a>
-      <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#2424</p></h5></li>
+      <li>
+        <Image width={300} height={300} src="item2424.png"  alt="Item  #2424"></Image>
+        <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#2424</p></h5>
+      </li>
 
-      <li><a href="https://i.redd.it/az3u9zdwho571.png"><img src="https://i.redd.it/az3u9zdwho571.png" alt="Item #8242" style={{"width":"300px", "height":"200px"}}/></a>
-      <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#8242</p></h5></li>
+      <li>
+        <Image width={300} height={200} src="item8242.png"  alt="Item  #8242"></Image>
+        <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#8242</p></h5>
+      </li>
 
-      <li><a href="https://i.redd.it/0ais0spxgo571.png"><img src="https://i.redd.it/0ais0spxgo571.png" alt="Item  #0482"style={{"width":"250px", "height":"350px"}}/></a>
-      <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#0482</p></h5></li> */}
-
+      <li>
+        <Image width={250} height={350} src="item0482.png"  alt="Item  #0482"></Image>
+        <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#0482</p></h5>
+      </li>
       </h3>
       </ul2>
 
