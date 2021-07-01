@@ -13,13 +13,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-    {/* <h1 style={{"text-align":"center"}}>
+    <h1 style={{"text-align":"center"}}>
         <u>
             <p style={{"font-size": "55px", "font-family":"Helvetica", "color":"#00a3cc"}}>O.T.E. EXOTIC CO.</p>
         </u>
     </h1>
 
-    <h5 style={{"text-align":"center"}}>
+    {/* <h5 style={{"text-align":"center"}}>
         <p style={{"font-size": "20px", "color":"#000000", "font-family": "Helvetica"}}>
             Wholesale Birds, Cages and Accessories
         </p>
