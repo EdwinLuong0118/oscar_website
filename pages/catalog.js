@@ -19,7 +19,7 @@ export default function Home() {
         </u>
     </h1>
 
-    {/* <h5 style={{"text-align":"center"}}>
+    <h5 style={{"text-align":"center"}}>
         <p style={{"font-size": "20px", "color":"#000000", "font-family": "Helvetica"}}>
             Wholesale Birds, Cages and Accessories
         </p>
@@ -27,17 +27,17 @@ export default function Home() {
 
     <hr/>
     <h4 style={{"text-align":"center", "font-family":"Helvetica"}}>
-    <ul><li><Link href="/"><a>Home</a></Link></li>
-    <li><Link href="/catalog"><a>Catalog</a></Link></li>
-    <li><Link href="/contact"><a>Contact Information</a></Link></li>
-    </ul>
+      <ul><li><Link href="/"><a>Home</a></Link></li>
+      <li><Link href="/catalog"><a>Catalog</a></Link></li>
+      <li><Link href="/contact"><a>Contact Information</a></Link></li>
+      </ul>
     </h4>
 
     <hr/>
 
     <p><h3 style={{"color":"#00a3cc", "font-size":"25px", "font-family":"helvetica"}}><u>Catalog</u></h3><h5 style={{"color":"#00a3cc", "font-size":"14", "font-family":"helvetica"}}>Want a closer look? Try clicking the pictures!</h5></p>
     <p><h5 style={{"color":"#00a3cc", "font-family":"helvetica", "font-size":"14"}}>(Some Items have multiple colors! Please contact Oscar if you have any questions!)</h5></p>
-    <p><h5 style={{"color":"#00a3cc", "font-size":"20px", "font-family":"Helvetica"}}><u>Feeders:</u></h5></p>
+    {/* <p><h5 style={{"color":"#00a3cc", "font-size":"20px", "font-family":"Helvetica"}}><u>Feeders:</u></h5></p>
 
     <table>
         <tr style={{"margin-left": "auto", "margin-right":"auto"}}>
