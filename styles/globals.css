@@ -13,18 +13,8 @@ a {
 
 * {
   box-sizing: border-box;
-}
-
-html {
-  background: blue;
-}
-
-* {
-  margin: 0;
   padding: 0;
-  border: 0;
-  outline: 0;
-  vertical-align: baseline;
+  margin: 0;
 }
 
 ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333333;}
