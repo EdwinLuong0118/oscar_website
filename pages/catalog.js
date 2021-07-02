@@ -15,18 +15,18 @@ export default function Home() {
       
     <h1 style={{"text-align":"center"}}>
         <u>
-            <p style={{"font-size": "55px", "font-family":"Helvetica", "color":"#00a3cc"}}>O.T.E. EXOTIC CO.</p>
+            <p style={{"font-size": "55px", "font-family":"Helvetica", "color":"#00a3cc", "padding-top":"50px", "padding-bottom":"50px"}}>O.T.E. EXOTIC CO.</p>
         </u>
     </h1>
 
-    <h5 style={{"text-align":"center"}}>
-        <p style={{"font-size": "20px", "color":"#000000", "font-family": "Helvetica"}}>
-            Wholesale Birds, Cages and Accessories
+    <h5 style={{"text-align":"center", "padding-bottom":"20px"}}>
+        <p style={{"font-size": "20px", "color":"#000000", "font-family": "Helvetica", "padding-top":"20px"}}>
+        <u> Wholesale Birds, Cages and Accessories</u>
         </p>
     </h5> 
 
     <hr/>
-    <h4 style={{"text-align":"center", "font-family":"Helvetica"}}>
+    <h4 style={{"text-align":"center", "font-family":"Helvetica",  "padding-top":"20px", "padding-bottom":"20px"}}>
       <ul><li><Link href="/"><a>Home</a></Link></li>
       <li><Link href="/catalog"><a>Catalog</a></Link></li>
       <li><Link href="/contact"><a>Contact Information</a></Link></li>
@@ -35,8 +35,8 @@ export default function Home() {
 
     <hr/>
 
-    <p><h3 style={{"color":"#00a3cc", "font-size":"25px", "font-family":"helvetica"}}><u>Catalog</u></h3><h5 style={{"color":"#00a3cc", "font-size":"14", "font-family":"helvetica"}}>Want a closer look? Try clicking the pictures!</h5></p>
-    <p><h5 style={{"color":"#00a3cc", "font-family":"helvetica", "font-size":"14"}}>(Some Items have multiple colors! Please contact Oscar if you have any questions!)</h5></p>
+    <p><h3 style={{"color":"#00a3cc", "font-size":"25px", "font-family":"helvetica", "padding-top":"40px"}}><u>Catalog</u></h3><h5 style={{"color":"#00a3cc", "font-size":"14", "font-family":"helvetica"}}>Want a closer look? Try clicking the pictures!</h5></p>
+    <p><h5 style={{"color":"#00a3cc", "font-family":"helvetica", "font-size":"14", "padding-bottom":"40px"}}>(Some Items have multiple colors! Please contact Oscar if you have any questions!)</h5></p>
     {/* <p><h5 style={{"color":"#00a3cc", "font-size":"20px", "font-family":"Helvetica"}}><u>Feeders:</u></h5></p>
 
     <table>
@@ -124,7 +124,7 @@ export default function Home() {
         </tr>
     </table>
 
-    <table>
+    <table style={{"padding-bottom":"40px"}}>
         <tr>
         <td><Image src="/item8542.png" alt="Item  #8542; Item #8543" width={120} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8542</b>:9.5''  <b>#8543</b>:12''</p></h5></p></td>
         <td><Image src="/item8544.png" alt="Item  #8544; Item #8545" width={152} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8544</b>:18''  <b>#8545</b>:24''</p></h5></p></td>
