@@ -97,46 +97,45 @@ export default function Home() {
         </tr>
     </table>
 
-    <hr/>
+    <hr/> */}
 
     <p><h5 style={{"color":"#00a3cc", "font-size":"20px", "font-family":"Helvetica"}}><u>Toys and Accessories:</u></h5></p>
 
     <table>
         <tr>
-        <td><a href="https://i.redd.it/p0lyupuymp671.png"><img src="https://i.redd.it/p0lyupuymp671.png" alt="Item  #8331"style={{"width":"40px", "height":"60px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8331</p></h5></p></td>
-        <td><a href="https://i.redd.it/3ulmhhrznp671.png"><img src="https://i.redd.it/3ulmhhrznp671.png" alt="Item  #8334"style={{"width":"65px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8334</p></h5></p></td>
-        <td><a href="https://i.redd.it/axgenk0fop671.png"><img src="https://i.redd.it/axgenk0fop671.png" alt="Item  #8336"style={{"width":"35px", "height":"85px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8336</p></h5></p></td>
-        <td><a href="https://i.redd.it/osvmjm11pp671.png"><img src="https://i.redd.it/osvmjm11pp671.png" alt="Item  #8338"style={{"width":"40px", "height":"90px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8338</p></h5></p></td>
-        <td><a href="https://i.redd.it/ezwdjp7jpp671.png"><img src="https://i.redd.it/ezwdjp7jpp671.png" alt="Item  #8399"style={{"width":"60px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8399</p></h5></p></td>
-        <td><a href="https://i.redd.it/iks4lty3qp671.png"><img src="https://i.redd.it/iks4lty3qp671.png" alt="Item  #8095"style={{"width":"60px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8095</p></h5></p></td>
-        <td><a href="https://i.redd.it/siupinw2rp671.png"><img src="https://i.redd.it/siupinw2rp671.png" alt="Item  #8091"style={{"width":"45px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8091</p></h5></p></td>
-        <td><a href="https://i.redd.it/64uagf9asp671.png"><img src="https://i.redd.it/64uagf9asp671.png" alt="Item  #8201"style={{"width":"60px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8201</p></h5></p></td>
-        <td><a href="https://i.redd.it/ldmdxhhv3w671.png"><img src="https://i.redd.it/ldmdxhhv3w671.png" alt="Item  #8611"style={{"width":"65px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8611</p></h5></p></td>
-        <td><a href="https://i.redd.it/9jd5s6s3tp671.png"><img src="https://i.redd.it/9jd5s6s3tp671.png" alt="Item  #8613"style={{"width":"65px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8613</p></h5></p></td>
-        <td><a href="https://i.redd.it/9r8qsinz9w671.png"><img src="https://i.redd.it/9r8qsinz9w671.png" alt="Item  #8614"style={{"width":"55px", "height":"60px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8614</p></h5></p></td>
-        <td><a href="https://i.redd.it/yohib3qabw671.png"><img src="https://i.redd.it/yohib3qabw671.png" alt="Item  #8615"style={{"width":"60px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8615</p></h5></p></td>
-        <td><a href="https://i.redd.it/maii13dccw671.png"><img src="https://i.redd.it/maii13dccw671.png" alt="Item  #8618"style={{"width":"70px", "height":"80px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8618</p></h5></p></td>
-        <td><a href="https://i.redd.it/x0fj1a836a771.png"><img src="https://i.redd.it/x0fj1a836a771.png" alt="Item  #8502"style={{"width":"38px", "height":"45px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8502</p></h5></p></td>
-        <td><a href="https://i.redd.it/l197u0zh6a771.png"><img src="https://i.redd.it/l197u0zh6a771.png" alt="Item  #8504"style={{"width":"50px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8504</p></h5></p></td>
-        <td><a href="https://i.redd.it/s6ag7rkj7a771.png"><img src="https://i.redd.it/s6ag7rkj7a771.png" alt="Item  #8506"style={{"width":"65px", "height":"80px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8506</p></h5></p></td>
-        <td><a href="https://i.redd.it/2gnp2pxjka771.png"><img src="https://i.redd.it/2gnp2pxjka771.png" alt="Item  #8451"style={{"width":"40px", "height":"45px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8451</p></h5></p></td>
-        <td><a href="https://i.redd.it/l76cwsj28a771.png"><img src="https://i.redd.it/l76cwsj28a771.png" alt="Item  #8452"style={{"width":"40px", "height":"55px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8452</p></h5></p></td>
-        <td><a href="https://i.redd.it/l76cwsj28a771.png"><img src="https://i.redd.it/l76cwsj28a771.png" alt="Item  #8452"style={{"width":"40px", "height":"55px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8452</p></h5></p></td>
+        <td><Image src="/item8331.png" alt="Item  #8331" width={40} height={60}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8331</p></h5></p></td>
+        <td><Image src="/item8334.png" alt="Item  #8334" width={65} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8334</p></h5></p></td>
+        <td><Image src="/item8336.png" alt="Item  #8336" width={35} height={85}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8336</p></h5></p></td>
+        <td><Image src="/item8338.png" alt="Item  #8338" width={40} height={90}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8338</p></h5></p></td>
+        <td><Image src="/item8399.png" alt="Item  #8399" width={60} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8339</p></h5></p></td>
+        <td><Image src="/item8095.png" alt="Item  #8095" width={60} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8095</p></h5></p></td>
+        <td><Image src="/item8091.png" alt="Item  #8091" width={45} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8091</p></h5></p></td>
+        <td><Image src="/item8201.png" alt="Item  #8201" width={60} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8201</p></h5></p></td>
+        <td><Image src="/item8611.png" alt="Item  #8611" width={65} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8611</p></h5></p></td>
+        <td><Image src="/item8613.png" alt="Item  #8613" width={65} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8613</p></h5></p></td>
+        <td><Image src="/item8614.png" alt="Item  #8614" width={55} height={60}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8614</p></h5></p></td>
+        <td><Image src="/item8615.png" alt="Item  #8615" width={60} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8615</p></h5></p></td>
+        <td><Image src="/item8618.png" alt="Item  #8618" width={70} height={80}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8618</p></h5></p></td>
+        <td><Image src="/item8502.png" alt="Item  #8502" width={38} height={45}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8502</p></h5></p></td>
+        <td><Image src="/item8504.png" alt="Item  #8504" width={50} height={70}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8504</p></h5></p></td>
+        <td><Image src="/item8506.png" alt="Item  #8506" width={65} height={80}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8506</p></h5></p></td>
+        <td><Image src="/item8451.png" alt="Item  #8451" width={40} height={45}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8451</p></h5></p></td>
+        <td><Image src="/item8452.png" alt="Item  #8452" width={40} height={45}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8452</p></h5></p></td>
         </tr>
     </table>
 
     <table>
         <tr>
-        <td><a href="https://i.redd.it/d62is2j6dw671.png"><img src="https://i.redd.it/d62is2j6dw671.png" alt="Item  #8542; Item #8543"style={{"width":"120px", "height":"40px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8542</b>:9.5''  <b>#8543</b>:12''</p></h5></p></td>
-        <td><a href="https://i.redd.it/8xjvbt6kew671.png"><img src="https://i.redd.it/8xjvbt6kew671.png" alt="Item  #8544; Item #8545"style={{"width":"152px", "height":"40px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8544</b>:18''  <b>#8545</b>:24''</p></h5></p></td>
-        <td><a href="https://i.redd.it/b8poqvqlkw671.png"><img src="https://i.redd.it/b8poqvqlkw671.png" alt="Item  #8564"style={{"width":"180px", "height":"42px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica" , "font-size": "14px", "text-align":"center"}}><p>#8564:18''</p></h5></p></td>
-        <td><a href="https://i.redd.it/e1qdz6ajlw671.png"><img src="https://i.redd.it/e1qdz6ajlw671.png" alt="Item  #8565"style={{"width":"190px", "height":"42px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica" , "font-size": "14px", "text-align":"center"}}><p>#8565:24''</p></h5></p></td>
-        <td><a href="https://i.redd.it/nh924huxgw671.png"><img src="https://i.redd.it/nh924huxgw671.png" alt="Item  #8546; Item #8547"style={{"width":"180px", "height":"40px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8546</b>:36''  <b>#8547</b>:48''</p></h5></p></td>
-        <td><a href="https://i.redd.it/6pttk913jw671.png"><img src="https://i.redd.it/6pttk913jw671.png" alt="Item  #8546; Item #8547"style={{"width":"180px", "height":"42px"}}></img></a><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8566</b>:36''  <b>#8567</b>:48''</p></h5></p></td>
+        <td><Image src="/item8542.png" alt="Item  #8542; Item #8543" width={120} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8542</b>:9.5''  <b>#8543</b>:12''</p></h5></p></td>
+        <td><Image src="/item8544.png" alt="Item  #8544; Item #8545" width={152} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8544</b>:18''  <b>#8545</b>:24''</p></h5></p></td>
+        <td><Image src="/item8564.png" alt="Item  #8564" width={180} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8564:18''</p></h5></p></td>
+        <td><Image src="/item8565.png" alt="Item  #8565" width={190} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p>#8565:24''</p></h5></p></td>
+        <td><Image src="/item8546.png" alt="Item  #8546; Item #8547" width={180} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8546</b>:36''  <b>#8547</b>:48''</p></h5></p></td>
+        <td><Image src="/item8566.png" alt="Item  #8566; Item #8567" width={180} height={40}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "14px", "text-align":"center"}}><p><b>#8566</b>:36''  <b>#8567</b>:48''</p></h5></p></td>
         </tr>
     </table>
 
-    <table> 
+    {/* <table> 
         <tr>
         <td><a href="https://i.redd.it/zdvzq17lnw671.png"><img src="https://i.redd.it/zdvzq17lnw671.png" alt="Item  #8655; Item  #8654; Item #8653; Item  #8652; Item  #8651"style={{"width":"180px", "height":"80px"}}></img></a></td>
         <td>
@@ -202,7 +201,7 @@ export default function Home() {
         <td><a href="https://i.redd.it/n9b4iocr4a771.png"><img src="https://i.redd.it/n9b4iocr4a771.png" alt="Item #3055"style={{"width":"45px", "height":"10px"}}></img></a><p><h5 style={{"color": "#000000", "font-family":"helvetica", "font-size":"14px", "text-align":"center"}}><p>#3055</p></h5></p></td>
         <td><a href="https://i.redd.it/n1shbh3b5a771.png"><img src="https://i.redd.it/n1shbh3b5a771.png" alt="Item #3056"style={{"width":"40px", "height":"70px"}}></img></a><p><h5 style={{"color": "#000000", "font-family":"helvetica", "font-size":"14px", "text-align":"center"}}><p>#3056</p></h5></p></td>
         </tr>
-    </table>
+    </table> */}
 
     <hr/>
 
@@ -219,7 +218,7 @@ export default function Home() {
 
     <body style={{"background":"url(https://i.redd.it/t3b616ul9a671.png)"}}>
     </body>
-     */}
+    
   </div>
   )
   }
