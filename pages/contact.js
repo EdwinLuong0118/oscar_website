@@ -34,7 +34,7 @@ export default function Home() {
             <h4 style={{"font-size":"20px", "color":"#FFFFFF", "font-family":"Helvetica"}}>(626) 321-0910 via text<br/>or<br/>oscartran2002@yahoo.com via email</h4>
             <br/><h4 style={{"font-family":"Helvetica","font-size":"14px","color":"#FFFFFF","text-align":"center", "padding":"500px"}}> Please contact me if you have any further questions!</h4>
             </p>
-      <body style={{"background":"red"}}>
+      <body style={{"background":"url(https://i.redd.it/au40rxdxbo571.png)"}}>
         
       </body>
 
