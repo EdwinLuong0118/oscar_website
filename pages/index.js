@@ -40,34 +40,32 @@ export default function Home() {
         Best Sellers!
         </u>
       </h3>
-      <ul2 style={{"list-style-type":"none"}}>
+      <ul2 style={{"list-style-type":"none", "background": "url(https://i.redd.it/t3b616ul9a671.png)", "padding-bottom":"100px"}}>
 
-      <h3 style={{"text-align":"center"}}>
-      <li style={{"padding":"12px"}}>
+      <h3 style={{"text-align":"center", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
+      <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
         <Image width={250} height={350} src="/item3373.png"  alt="Item  #3373"></Image>
         <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3373</p></h5>
       </li>
 
-      <li style={{"padding":"12px"}}>
+      <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
         <Image width={300} height={300} src="/item2424.png"  alt="Item  #2424"></Image>
         <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#2424</p></h5>
       </li>
 
-      <li style={{"padding":"12px"}}>
+      <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
         <Image width={300} height={200} src="/item8242.png"  alt="Item  #8242"></Image>
         <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#8242</p></h5>
       </li>
 
-      <li style={{"padding":"12px"}}>
+      <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
         <Image width={250} height={350} src="/item0482.png"  alt="Item  #0482"></Image>
         <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#0482</p></h5>
       </li>
       </h3>
       </ul2>
-
-      {/* <body style={{"background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
-
-      </body>     */}
+  
+  
   </div>
   )
   }
