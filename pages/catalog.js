@@ -214,7 +214,7 @@ export default function Home() {
     <p><h5 style={{"color":"#00a3cc","font-size":"20px","font-family":"Helvetica"}}><u>Hamster Cages:</u></h5></p>
     <hr/>
     <p><h5 style={{"color":"#00a3cc","font-size":"20px","font-family":"Helvetica"}}><u>Nests and Others:</u></h5></p>
-    
+
   </div>
   )
   }
