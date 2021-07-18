@@ -35,7 +35,7 @@ export default function Home() {
       </h4>
 
       <hr/>
-      <h3 style={{"font-family":"helvetica","text-align":"left","font-size":"30px","color":"#00a3cc", "padding-top":"40px"}}>
+      <h3 style={{"font-family":"helvetica","text-align":"left","font-size":"30px","color":"#00a3cc", "padding-top":"40px", "padding-left":"10px"}}>
         <u>
         Best Sellers!
         </u>

@@ -34,7 +34,8 @@ export default function Home() {
     </h4>
 
     <hr/>
-
+    
+    <div style={{"padding-left":'10px'}}>
     <p><h3 style={{"color":"#00a3cc", "font-size":"25px", "font-family":"helvetica", "padding-top":"40px"}}><u>Catalog</u></h3><h5 style={{"color":"#00a3cc", "font-size":"14", "font-family":"helvetica"}}>Want a closer look? Try clicking the pictures!</h5></p>
     <p><h5 style={{"color":"#00a3cc", "font-family":"helvetica", "font-size":"14", "padding-bottom":"40px"}}>(Some Items have multiple colors! Please contact Oscar if you have any questions!)</h5></p>
 
@@ -134,7 +135,7 @@ export default function Home() {
 
     <table> 
         <tr>
-        <td><Image src="/item8651.png" alt="Item  #8651; Item #8652; Item #8652; Item #8654; Item#8655;" width={180} height={80}></Image>
+        <td><Image src="/item8651.png" alt="Item  #8651; Item #8652; Item #8652; Item #8654; Item#8655;" width={180} height={80}></Image></td>
         <td>
         <h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align": "center", "text-align":"left"}}>
         <p>#8651:Ø 6"×13"</p>
@@ -149,7 +150,6 @@ export default function Home() {
         <td><Image src="/item8578.png" alt="Item  #8578;" width={129} height={12}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8578:18"</b></p></h5></p></td>
         <td><Image src="/item8571.png" alt="Item  #8571;" width={140} height={12}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8571:24"</b></p></h5></p></td>
         <td><Image src="/item8572.png" alt="Item  #8572;" width={145} height={12}></Image><p><h5 style={{"color": "#000000", "font-family": "helvetica", "font-size": "12px", "text-align":"center"}}><p><b>#8572:31"</b></p></h5></p></td>
-        </td>
         </tr>
     </table>
 
@@ -233,8 +233,8 @@ export default function Home() {
     <hr/>
     <p><h5 style={{"color":"#00a3cc","font-size":"20px","font-family":"Helvetica"}}><u>Hamster Cages:</u></h5></p>
     <hr/>
-    <p><h5 style={{"color":"#00a3cc","font-size":"20px","font-family":"Helvetica"}}><u>Nests and Others:</u></h5></p>
-
+    <p><h5 style={{"color":"#00a3cc","font-size":"20px","font-family":"Helvetica"}}><u>Nests, Carriers, and Others:</u></h5></p>
+  </div>
   </div>
   )
   }
