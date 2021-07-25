@@ -46,7 +46,7 @@ export default function Home() {
         <h3 style={{"text-align":"center", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
         <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
             <Image width={250} height={350} src="/item3373.png"  alt="Item  #3373"></Image>
-            <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3373</p></h5>
+            <h5 style={{"color": "#000000","font-family": "helvetica","font-size": "20px"}}><p>#3374</p></h5>
         </li>
 
         <li style={{"padding":"12px", "background": "url(https://i.redd.it/t3b616ul9a671.png)"}}>
